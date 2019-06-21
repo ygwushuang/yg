@@ -1,9 +1,0 @@
-server:
-  port: 6100
-spring:
-  application:
-    name: micro-config-client
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://admin:admin@eureka1:7001/eureka,http://admin:admin@eureka2:7002/eureka,http://admin:admin@eureka3:7003/eureka

@@ -1,11 +1,6 @@
-spring:
-   profiles:
-      active:
-        - dev
 server:
   port: 6100
 spring:
-  profiles: dev
   application:
     name: micro-config-client
 eureka:

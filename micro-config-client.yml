@@ -1,3 +1,5 @@
+server:
+  port: 6100
 spring:
   application:
     name: micro-config-client

@@ -1,4 +1,4 @@
 server:
   port: 8888
 test:
-  name: micro-config-client
+  name: micro-config-client111

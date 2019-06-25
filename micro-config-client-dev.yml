@@ -2,4 +2,4 @@ server:
   port: 8888
 spring:
   application:
-    name: micro-config-client1111
+    name: micro-config-client

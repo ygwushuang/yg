@@ -3,6 +3,3 @@ server:
 spring:
   application:
     name: micro-config-client
-product:
-  name: testName
-  desc: testDesc

@@ -3,11 +3,6 @@ server:
 spring:
   application:
     name: micro-config-client
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://admin:admin@eureka1:7101/eureka,http://admin:admin@eureka2:7102/eureka,http://admin:admin@eureka3:7103/eureka
-
 product:
   name: testName
   desc: testDesc

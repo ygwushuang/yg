@@ -6,4 +6,4 @@ spring:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://admin:admin@eureka1:7001/eureka,http://admin:admin@eureka2:7002/eureka,http://admin:admin@eureka3:7003/eureka
+      defaultZone: http://admin:admin@eureka1:7101/eureka,http://admin:admin@eureka2:7102/eureka,http://admin:admin@eureka3:7103/eureka
